@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a M.S. student at School of Computer Science, Fudan University. Prior to that, I received my B.E. from Tongji University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Code Generation**
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
